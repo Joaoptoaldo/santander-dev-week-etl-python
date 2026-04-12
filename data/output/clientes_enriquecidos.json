@@ -1,0 +1,142 @@
+[
+  {
+    "nome":"Ana Souza",
+    "conta":"0001-25",
+    "cartao":"**** **** **** 1122",
+    "produto":"cart\u00e3o de cr\u00e9dito premium",
+    "mensagem":"Ola, Ana Souza! Oportunidade: cart\u00e3o de cr\u00e9dito premium. Conta 0001-25 | Cartao **** **** **** 1122."
+  },
+  {
+    "nome":"Bruno Lima",
+    "conta":"0002-31",
+    "cartao":"**** **** **** 3344",
+    "produto":"empr\u00e9stimo pessoal",
+    "mensagem":"Ola, Bruno Lima! Oportunidade: empr\u00e9stimo pessoal. Conta 0002-31 | Cartao **** **** **** 3344."
+  },
+  {
+    "nome":"Carla Mendes",
+    "conta":"0003-48",
+    "cartao":"**** **** **** 5566",
+    "produto":"investimentos automatizados",
+    "mensagem":"Ola, Carla Mendes! Oportunidade: investimentos automatizados. Conta 0003-48 | Cartao **** **** **** 5566."
+  },
+  {
+    "nome":"Diego Santos",
+    "conta":"0004-72",
+    "cartao":"**** **** **** 7788",
+    "produto":"conta digital PJ",
+    "mensagem":"Ola, Diego Santos! Oportunidade: conta digital PJ. Conta 0004-72 | Cartao **** **** **** 7788."
+  },
+  {
+    "nome":"Fernanda Costa",
+    "conta":"0005-19",
+    "cartao":"**** **** **** 9900",
+    "produto":"seguro viagem",
+    "mensagem":"Ola, Fernanda Costa! Oportunidade: seguro viagem. Conta 0005-19 | Cartao **** **** **** 9900."
+  },
+  {
+    "nome":"Gustavo Almeida",
+    "conta":"0006-34",
+    "cartao":"**** **** **** 2233",
+    "produto":"cons\u00f3rcio im\u00f3veis",
+    "mensagem":"Ola, Gustavo Almeida! Oportunidade: cons\u00f3rcio im\u00f3veis. Conta 0006-34 | Cartao **** **** **** 2233."
+  },
+  {
+    "nome":"Helena Rodrigues",
+    "conta":"0007-57",
+    "cartao":"**** **** **** 4455",
+    "produto":"previd\u00eancia privada",
+    "mensagem":"Ola, Helena Rodrigues! Oportunidade: previd\u00eancia privada. Conta 0007-57 | Cartao **** **** **** 4455."
+  },
+  {
+    "nome":"Igor Barbosa",
+    "conta":"0008-82",
+    "cartao":"**** **** **** 6677",
+    "produto":"home equity",
+    "mensagem":"Ola, Igor Barbosa! Oportunidade: home equity. Conta 0008-82 | Cartao **** **** **** 6677."
+  },
+  {
+    "nome":"Julia Ferreira",
+    "conta":"0009-16",
+    "cartao":"**** **** **** 8899",
+    "produto":"cr\u00e9dito rural",
+    "mensagem":"Ola, Julia Ferreira! Oportunidade: cr\u00e9dito rural. Conta 0009-16 | Cartao **** **** **** 8899."
+  },
+  {
+    "nome":"Lucas Pereira",
+    "conta":"0010-40",
+    "cartao":"**** **** **** 0011",
+    "produto":"capitaliza\u00e7\u00e3o",
+    "mensagem":"Ola, Lucas Pereira! Oportunidade: capitaliza\u00e7\u00e3o. Conta 0010-40 | Cartao **** **** **** 0011."
+  },
+  {
+    "nome":"Mariana Silva",
+    "conta":"0011-63",
+    "cartao":"**** **** **** 2233",
+    "produto":"fundo multimercado",
+    "mensagem":"Ola, Mariana Silva! Oportunidade: fundo multimercado. Conta 0011-63 | Cartao **** **** **** 2233."
+  },
+  {
+    "nome":"Nicolas Oliveira",
+    "conta":"0012-87",
+    "cartao":"**** **** **** 4455",
+    "produto":"tesouraria",
+    "mensagem":"Ola, Nicolas Oliveira! Oportunidade: tesouraria. Conta 0012-87 | Cartao **** **** **** 4455."
+  },
+  {
+    "nome":"Olivia Martins",
+    "conta":"0013-21",
+    "cartao":"**** **** **** 6677",
+    "produto":"private banking",
+    "mensagem":"Ola, Olivia Martins! Oportunidade: private banking. Conta 0013-21 | Cartao **** **** **** 6677."
+  },
+  {
+    "nome":"Pedro Henrique",
+    "conta":"0014-45",
+    "cartao":"**** **** **** 8899",
+    "produto":"trade finance",
+    "mensagem":"Ola, Pedro Henrique! Oportunidade: trade finance. Conta 0014-45 | Cartao **** **** **** 8899."
+  },
+  {
+    "nome":"Quiteria Lopes",
+    "conta":"0015-68",
+    "cartao":"**** **** **** 0011",
+    "produto":"cart\u00e3o corporativo",
+    "mensagem":"Ola, Quiteria Lopes! Oportunidade: cart\u00e3o corporativo. Conta 0015-68 | Cartao **** **** **** 0011."
+  },
+  {
+    "nome":"Rafael Cardoso",
+    "conta":"0016-92",
+    "cartao":"**** **** **** 2233",
+    "produto":"financiamento estudantil",
+    "mensagem":"Ola, Rafael Cardoso! Oportunidade: financiamento estudantil. Conta 0016-92 | Cartao **** **** **** 2233."
+  },
+  {
+    "nome":"Sofia Ramos",
+    "conta":"0017-14",
+    "cartao":"**** **** **** 4455",
+    "produto":"open banking",
+    "mensagem":"Ola, Sofia Ramos! Oportunidade: open banking. Conta 0017-14 | Cartao **** **** **** 4455."
+  },
+  {
+    "nome":"Thiago Nunes",
+    "conta":"0018-38",
+    "cartao":"**** **** **** 6677",
+    "produto":"pix empresarial",
+    "mensagem":"Ola, Thiago Nunes! Oportunidade: pix empresarial. Conta 0018-38 | Cartao **** **** **** 6677."
+  },
+  {
+    "nome":"Ursula Vieira",
+    "conta":"0019-71",
+    "cartao":"**** **** **** 8899",
+    "produto":"blockchain assets",
+    "mensagem":"Ola, Ursula Vieira! Oportunidade: blockchain assets. Conta 0019-71 | Cartao **** **** **** 8899."
+  },
+  {
+    "nome":"Victor Moreira",
+    "conta":"0020-05",
+    "cartao":"**** **** **** 0011",
+    "produto":"c\u00e2mbio turismo",
+    "mensagem":"Ola, Victor Moreira! Oportunidade: c\u00e2mbio turismo. Conta 0020-05 | Cartao **** **** **** 0011."
+  }
+]
