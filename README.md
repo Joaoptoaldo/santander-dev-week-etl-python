@@ -1,7 +1,7 @@
 # 🚀 Desafio DIO - ETL Profissional + Dashboard Streamlit
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python
-[![Status](https://img.shields.io/badge/Status-Production-green.svg)](https://github.com)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Production-green.svg)](https://github.com/Joaoptoaldo/santander-dev-week-etl-python)
 
 ## Sobre
 
