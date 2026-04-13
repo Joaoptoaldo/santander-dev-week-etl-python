@@ -1,6 +1,6 @@
-# Desafio DIO - ETL Profissional com Python
+# 🚀 Desafio DIO - ETL Profissional + Dashboard Streamlit
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python
 [![Status](https://img.shields.io/badge/Status-Production-green.svg)](https://github.com)
 
 ## Sobre
@@ -16,6 +16,7 @@
 - Carregamento multi-formato
 - Métricas automáticas
 - Análise interativa Plotly
+- Dashboard Streamlit
 - Arquitetura modular src/
 
 ## Como Usar
@@ -38,6 +39,7 @@ jupyter notebook notebooks/analise_dados.ipynb
 ├── data/          # Entrada/saída
 ├── notebooks/     # Análise 
 ├── main.py        # Orquestrador
+└── dashboard.py   # Streamlit Dashboard
 └── requirements.txt
 ```
 
@@ -49,10 +51,3 @@ data/output/
 ├── clientes_enriquecidos.json
 └── etl.db
 ```
-
-## Próximos Passos Sugeridos
-
-- [ ] Testes unitários (pytest)
-- [ ] Docker
-- [ ] Streamlit Dashboard
-- [ ] GitHub Actions CI/CD
